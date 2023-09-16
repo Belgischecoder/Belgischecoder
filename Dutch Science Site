@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Wetenschap Uitgelegd</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .section {
+            padding: 20px;
+            border: 1px solid #ccc;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Wetenschap Uitgelegd</h1>
+    </header>
+    
+    <section class="section">
+        <h2>Natuurkunde</h2>
+        <p>Natuurkunde is de wetenschap die de fundamentele eigenschappen van materie, energie, ruimte en tijd bestudeert. Klik op de knop hieronder om video's over natuurkunde op YouTube te bekijken.</p>
+        <a href="https://nl.wikipedia.org/wiki/Natuurkunde" target="_blank"><button>Meer weten over natuurkunde</button></a>
+    </section>
+
+    <section class="section">
+        <h2>Biologie</h2>
+        <p>Biologie is de wetenschap van het leven en bestudeert levende organismen, hun structuur, functie en interacties. Klik op de knop hieronder om video's over biologie op YouTube te bekijken.</p>
+        <a href="https://nl.wikipedia.org/wiki/Biologie" target="_blank"><button>Meer weten over biologie</button></a>
+    </section>
+
+    <section class="section">
+        <h2>Scheikunde</h2>
+        <p>Scheikunde is de wetenschap die de samenstelling, structuur, eigenschappen en transformaties van materie bestudeert. Klik op de knop hieronder om video's over scheikunde op YouTube te bekijken.</p>
+        <a href="https://nl.wikipedia.org/wiki/Scheikunde" target="_blank"><button>Meer weten over scheikunde</button></a>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Waddaf Youssef-Amir, Leerling PTS Boom, 2AWB</p>
+    </footer>
+</body>
+</html>
